@@ -6,10 +6,10 @@
   <meta name="description" content="">
   <meta name="viewport" content="width=device-width">
   
-  <meta property="og:title" content="Lava | Designed By Theme Armada">
+  <meta property="og:title" content="Phoenix Group - Information Systems">
 	<meta property="og:type" content="website">
-	<meta property="og:url" content="http://www.themearmada.com/demos/lava">
-	<meta property="og:site_name" content="Theme Armada">
+	<meta property="og:url" content="http://www.thephoenixgroup.com">
+	<meta property="og:site_name" content="Phoenix Group">
 	<meta property="og:description" content="made with bootstrap, wrap bootstrap themes, bootstrap agency themes, creative bootstrap sites, Lava theme, responsive bootstrap theme, mobile website themes, bootstrap portfolio, theme armada">
 
   <!-- Styles -->
@@ -120,23 +120,96 @@
       </div>
     </section>
     
-    
-    <!--Testimonial Section-->
-    <section id="testimonial">
-      <div class="container">
-        <div class="row">
-          <div class="span3 margin-30">
-            <img src="img/testimonial-img.png" alt="Title">
-          </div>
-          
-          <div class="span9">
-            <h2>“When the competition starts recommending you and the overwhelming consensus among the customer is that Phoenix Group does the best job, it is a closed case.”</h2>
-            <div class="testimonial-source pull-right">Eric Sandy, Parking Sargent - City of Del Mar</div>
+ 
+    <!-- Testimonial Carousel
+    Change your images in the main.css file.
+    ================================================== -->
+    <section id="testimonial" class="carousel slide animated fadeIn">
+      <div class="carousel-inner">
+
+
+        <div class="item one active">
+          <div class="container animated fadeInUp">
+            <div class="row">              
+              <div class="span12">
+                <h2>“When the competition starts recommending you and the overwhelming consensus among the customer is that Phoenix Group does the best job, it is a closed case.”</h2>
+                <div class="testimonial-source pull-right">Eric Sandy, Parking Sargent - City of Del Mar</div>
+              </div>
+            </div>
           </div>
         </div>
+
+        <div class="item two">
+          <div class="container animated fadeInUp">
+            <div class="row">
+              <div class="span12">
+                <h2>“I am very very very very very happy we switched to Phoenix. Whoever selected Phoenix as our new Vendor must be a genius.”</h2>
+                <div class="testimonial-source pull-right">Andrew Borrello, Lieutenant Administrative Services Division - San Gabriel Police Department.</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="item three">
+          <div class="container animated fadeInUp">
+            <div class="row">              
+              <div class="span12">
+                <h2>“Good job to you and your staff...it is really nice to see the effort being put into making this transition run so smoother and making the process relatively painless (at least on our side.) Thanks”</h2>
+                <div class="testimonial-source pull-right">Darren Perrine, Police Lieutenant Investigations San Gabriel Police Department</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="item four">
+          <div class="container animated fadeInUp">
+            <div class="row">
+              <div class="span12">
+                <h2>“You all do such a great job. You make changes based on customer input, which is so rare these days. This transition was easy and the software was intuitive for our officers.”</h2>
+                <div class="testimonial-source pull-right">Robert Horch, Parking Service Manager - City of San Luis Obispo</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="item five">
+          <div class="container animated fadeInUp">
+            <div class="row">              
+              <div class="span12">
+                <h2>“Your staff has always been extremely helpful. They are very courteous and professional.”</h2>
+                <div class="testimonial-source pull-right">Armando Hindman - County of Fresno</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="item six">
+          <div class="container animated fadeInUp">
+            <div class="row">              
+              <div class="span12">
+                <h2>“Great updates and service. They are always pleasant and helpful and callback promptly when needed.”</h2>
+                <div class="testimonial-source pull-right">Eva Foster, Hollister Police Department</div>
+              </div>
+            </div>
+          </div>
+        </div>
+
+        <div class="item seven">
+          <div class="container animated fadeInUp">
+            <div class="row">              
+              <div class="span12">
+                <h2>“The customer service staff are very professional and patient in helping us.”</h2>
+                <div class="testimonial-source pull-right">Karin Groth - Univeristy of California Merced</div>
+              </div>
+            </div>
+          </div>
+        </div>              
+
       </div>
-    </section>
-    
+
+      <a class="left carousel-control hidden-phone" href="#testimonial" data-slide="prev"><i class="icon-angle-left"></i></a>
+      <a class="right carousel-control hidden-phone" href="#testimonial" data-slide="next"><i class="icon-angle-right"></i></a>
+    </section><!-- /.carousel -->
     
     <!--Content-->
     <section id="content1">
@@ -235,7 +308,7 @@
     <script>
       !function ($) {
         $(function(){
-          $('#header').carousel()
+          $('#testimonial').carousel()
         })
       }(window.jQuery)
     </script>

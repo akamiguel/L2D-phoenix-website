@@ -1,4 +1,5 @@
 
+
 //Scroll Animation for About
 $(function() {
     //caches a jQuery object containing the header element
@@ -11,7 +12,6 @@ $(function() {
         } 
     });
 });
-
 
 
 //Scroll To

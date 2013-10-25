@@ -1,0 +1,624 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"pa",
+				"padding-top"
+			],
+			[
+				"mar",
+				"margin-top"
+			],
+			[
+				"marg",
+				"margin-top"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"text",
+				"text-decoration"
+			],
+			[
+				"border",
+				"border-top"
+			],
+			[
+				"background",
+				"background-color"
+			],
+			[
+				"back",
+				"background"
+			],
+			[
+				"splash",
+				"splash"
+			],
+			[
+				"water",
+				"watermark_name"
+			],
+			[
+				"pad",
+				"padding-top"
+			],
+			[
+				"b",
+				"border-radius"
+			],
+			[
+				"max-",
+				"max-height"
+			],
+			[
+				"bor",
+				"border-bottom"
+			],
+			[
+				"font-",
+				"font-family"
+			],
+			[
+				"page",
+				"page"
+			],
+			[
+				"over",
+				"overflow-y"
+			],
+			[
+				"scroll",
+				"scrollhandle"
+			],
+			[
+				"padd",
+				"padding-left"
+			],
+			[
+				"image",
+				"imageWidth"
+			],
+			[
+				"TW",
+				"TweenLite"
+			],
+			[
+				"ac",
+				"act"
+			],
+			[
+				"inl",
+				"inline-block"
+			],
+			[
+				"ft",
+				"font-weight"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"p",
+				"position"
+			],
+			[
+				"bac",
+				"background-color"
+			],
+			[
+				"border-col",
+				"border-color"
+			],
+			[
+				"hide",
+				"hide_menu"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"te",
+				"text-align"
+			],
+			[
+				"ind",
+				"z-index"
+			],
+			[
+				"ma",
+				"margin"
+			],
+			[
+				"background-",
+				"background-position"
+			],
+			[
+				"f",
+				"font-family"
+			],
+			[
+				"backgr",
+				"background-color"
+			],
+			[
+				"d",
+				"disabled"
+			],
+			[
+				"bo",
+				"bottom"
+			],
+			[
+				"no",
+				"nowrap"
+			],
+			[
+				"co",
+				"color"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"in",
+				"inline-block"
+			],
+			[
+				"di",
+				"display"
+			],
+			[
+				"l",
+				"line-height"
+			],
+			[
+				"li",
+				"list-style"
+			],
+			[
+				"style",
+				"font-style"
+			],
+			[
+				"paddng",
+				"padding-bottom"
+			],
+			[
+				"marin",
+				"margin-bottom"
+			],
+			[
+				"t",
+				"top"
+			],
+			[
+				"backg",
+				"background-color"
+			],
+			[
+				"he",
+				"htmlfileinput"
+			],
+			[
+				"html",
+				"htmlfileinput"
+			],
+			[
+				"mous",
+				"mouseover"
+			],
+			[
+				"file",
+				"file"
+			],
+			[
+				"displ",
+				"displayType"
+			],
+			[
+				"border-r",
+				"moz-border-radius"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"settings":
+			{
+				"buffer_size": 0,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 139.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/michaelbach/Sites/phoenix/enforcement.html",
+		"/Users/michaelbach/Sites/phoenix/index.html",
+		"/Users/michaelbach/Sites/phoenix/mobile.html",
+		"/Users/michaelbach/Sites/phoenix/parking.html",
+		"/Users/michaelbach/Sites/phoenix/permits.html",
+		"/Users/michaelbach/Sites/phoenix/services.html",
+		"/Users/michaelbach/Code/sitesbackup/SitesBackup.Web/Views/Shared/_LayoutLoggedIn.cshtml",
+		"/Users/michaelbach/Code/sitesbackup/SitesBackup.Web/Views/Account/Login.cshtml",
+		"/Users/michaelbach/Code/sitesbackup/SitesBackup.Web/Content/dashboard-admin/css/application.css",
+		"/Users/michaelbach/Sites/cloudcellar/css/theme.css",
+		"/Applications/mampstack-5.4.19-0/apache2/htdocs/joyapp/index.html",
+		"/Applications/mampstack-5.4.19-0/apache2/htdocs/joyapp/splash.html",
+		"/Applications/mampstack-5.4.19-0/apache2/htdocs/joyapp/profile.html",
+		"/Applications/mampstack-5.4.19-0/apache2/htdocs/joyapp/register.html",
+		"/Applications/mampstack-5.4.19-0/apache2/htdocs/joyapp/story.html",
+		"/Applications/mampstack-5.4.19-0/apache2/htdocs/joyapp/weddings.html",
+		"/Applications/mampstack-5.4.19-0/apache2/htdocs/joyapp/login.html",
+		"/Users/michaelbach/Library/Application Support/Sublime Text 2/Packages/User/Preferences.sublime-settings",
+		"/Applications/mampstack-5.4.19-0/apache2/htdocs/joyapp/sandbox.html",
+		"/Applications/mampstack-5.4.19-0/apache2/htdocs/joyapp/js/jquery.hammer.js",
+		"/Applications/mampstack-5.4.19-0/apache2/htdocs/joyapp/joy.sublime-project",
+		"/Users/michaelbach/Sites/joyapp/index.html",
+		"/Users/michaelbach/Sites/joyapp/css/style.less",
+		"/Users/michaelbach/Desktop/WAE Redesign/Templates/focus/includes/feature.php",
+		"/Users/michaelbach/Desktop/WAE Redesign/Templates/focus/template-feature.php",
+		"/Users/michaelbach/Desktop/WAE Redesign/Templates/focus/header-feature.php",
+		"/Users/michaelbach/Desktop/WAE Redesign/Templates/focus/css/feature.css",
+		"/Users/michaelbach/Desktop/WAE Redesign/Templates/focus/.htaccess",
+		"/Users/michaelbach/Sites/joyapp/splash.html",
+		"/Users/michaelbach/Sites/joyapp/login.html",
+		"/Users/michaelbach/Desktop/WAE Redesign/index.php",
+		"/Users/michaelbach/Sites/joyapp/story.html",
+		"/Users/michaelbach/Sites/joyapp/css/retina.less",
+		"/Users/michaelbach/Code/sitesbackup/SitesBackup.Web/Content/cloudcellar/assets/profile.jpg",
+		"/Users/michaelbach/Downloads/native_ios_app_template (1)/index.html",
+		"/Users/michaelbach/Code/sitesbackup/SitesBackup.Web/Views/Home/Index.cshtml",
+		"/Users/michaelbach/Code/sitesbackup/SitesBackup.Web/Content/cloudcellar/css/application.css",
+		"/Users/michaelbach/Code/sitesbackup/SitesBackup.Web/Content/cloudcellar/css/theme.css",
+		"/Users/michaelbach/Sites/cloudcellar-admin/backuplogin_old.html",
+		"/Users/michaelbach/Sites/cloudcellar-admin/backuphome.html",
+		"/Users/michaelbach/Sites/cloudcellar-admin/backupcopies_old.html",
+		"/Users/michaelbach/Sites/cloudcellar-admin/css/pages/dashboard.css",
+		"/Users/michaelbach/Sites/cloudcellar-admin/js/plugins/validate/additional-methods.js",
+		"/Users/michaelbach/Sites/cloudcellar-admin/index.html",
+		"/Users/michaelbach/Sites/cloudcellar-admin/js/demos/demo.reports.js",
+		"/Users/michaelbach/Sites/cloudcellar-admin/js/Theme.js",
+		"/Users/michaelbach/Sites/cloudcellar-admin/js/Charts.js",
+		"/Users/michaelbach/Sites/cloudcellar-admin/js/demos/charts/donut.js",
+		"/Users/michaelbach/Sites/cloudcellar-admin/css/pages/reports.css",
+		"/Users/michaelbach/Sites/cloudcellar-admin/css/application.css",
+		"/Users/michaelbach/Sites/cloudcellar/css/bootstrap.css",
+		"/Users/michaelbach/Sites/cloudcellar/index.html",
+		"/Users/michaelbach/Sites/cloudcellar/css/retina.less",
+		"/Users/michaelbach/Desktop/edge/edge/index.html",
+		"/Users/michaelbach/Downloads/wordpress/wp-config-sample.php",
+		"/Users/michaelbach/Desktop/error_log",
+		"/Users/michaelbach/Desktop/wp-config.php",
+		"/Users/michaelbach/Desktop/wordpress/wp-config-sample.php",
+		"/Users/michaelbach/Desktop/wp-settings.php",
+		"/Users/michaelbach/Desktop/About Page Proto/Project",
+		"/Users/michaelbach/Dropbox/Projects/Michael/code/large text/style/style.less",
+		"/Users/michaelbach/Dropbox/Projects/Michael/code/large text/jquery.tweet.css",
+		"/Users/michaelbach/Dropbox/Projects/Michael/code/large text/index-v2.html",
+		"/Users/michaelbach/Desktop/HelloWorld/HelloWorld/main.lua",
+		"/Users/michaelbach/Desktop/WhackaWorm/config.lua",
+		"/Users/michaelbach/Desktop/WhackaWorm/mail.lua",
+		"/Users/michaelbach/Desktop/Upload Control/style.css",
+		"/Users/michaelbach/Desktop/Upload Control/index-2.html",
+		"/Users/michaelbach/Desktop/Upload Control/index.html",
+		"/Users/michaelbach/Desktop/Michael Site 2012/img/background-image",
+		"/Volumes/MAC STORAGE/Dropbox/Portal2/default.html",
+		"/Volumes/MAC STORAGE/Dropbox/Portal2/scripts/preview.js",
+		"/Users/michaelbach/Desktop/style-White.css",
+		"/Volumes/MAC STORAGE/Dropbox/Projects/Michael/redesign/Code/Test/template.html"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"p.lead",
+			"p/lead",
+			"caro",
+			"<a href=\"blog-article.html\" class=\"btn-main\"><i class=\"icon-cloud\"></i> Remote Support Site</a>",
+			"<a href=\"blog-article.html\" class=\"btn-main\"><i class=\"icon-envelope\"></i> Email Customer Service</a>",
+			"footer",
+			"#bottom",
+			"bottom",
+			"current",
+			"lead",
+			"leader",
+			"nav",
+			"lead",
+			"content",
+			"insidelink",
+			"content",
+			"side-menu",
+			"side-list",
+			"side",
+			"insidelink",
+			"containslink",
+			"content-list",
+			"ul",
+			";\n",
+			"content",
+			"h4",
+			"twitter",
+			">\n",
+			"content1",
+			"#bottom",
+			"contact",
+			"#bottom",
+			".bottom",
+			"bottom",
+			"service",
+			"services",
+			"content-list",
+			"list",
+			"#testimonial",
+			"565f63",
+			"a5b2b9",
+			"content",
+			"caro",
+			"#content1",
+			"scroll",
+			"services",
+			"menu",
+			".carousel-caption",
+			".carousel .item ",
+			"brand",
+			"navbar",
+			"NAV-BAR",
+			"#bottom",
+			"bottom",
+			"message",
+			"twitter",
+			"message",
+			"content1",
+			"list",
+			"phone",
+			"work",
+			"ff755a",
+			"btn-main",
+			"27",
+			"CARO",
+			"p.lead",
+			"h1",
+			"brand",
+			"brabd",
+			"navbar",
+			"about",
+			"work",
+			"news",
+			"navbar",
+			"backupcopies",
+			"backup-copies",
+			"date",
+			"referral",
+			"failed",
+			"backup",
+			"successuf",
+			"mast",
+			"action",
+			"form",
+			"backup",
+			"backuo",
+			"account",
+			"login",
+			";\n",
+			"popular",
+			"plans",
+			"50",
+			"#page",
+			"page",
+			"splash",
+			"login",
+			"loginbar",
+			"login",
+			"font",
+			"login",
+			"standard",
+			"login",
+			"page",
+			"body",
+			"btn",
+			";\n",
+			"Tomorrow",
+			"webkit",
+			"D7D7DA",
+			"profile",
+			"body",
+			"settings",
+			"menu",
+			"page",
+			"hammer",
+			"page",
+			"scroller",
+			"page",
+			"body",
+			"page",
+			"0",
+			"handle",
+			"pic",
+			"cover",
+			"party",
+			">\n",
+			"200\n",
+			"          \n"
+		],
+		"highlight": false,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"<a href=\"https://phxgroup.webex.com\" class=\"btn-main\"><i class=\"icon-cloud\"></i> Remote Support Site</a>",
+			"<a href=\"mailto:customerservice@phxgroup.com\" class=\"btn-main\"><i class=\"icon-envelope\"></i> Email Customer Service</a>",
+			"636c70",
+			"565f63",
+			"dc3522",
+			"320",
+			"native",
+			"navtive-input",
+			"#56a9be"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"settings":
+					{
+						"buffer_size": 0,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		},
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 33.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			],
+			[
+				1,
+				0,
+				2,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			0.582924018777,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 64.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"time",
+				"js/plugins/validate/additional-methods.js"
+			],
+			[
+				"",
+				"css/retina.less"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 441.0,
+	"status_bar_visible": true
+}
