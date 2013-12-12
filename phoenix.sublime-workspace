@@ -236,9 +236,18 @@
 	"buffers":
 	[
 		{
+			"file": "index.html",
 			"settings":
 			{
-				"buffer_size": 0,
+				"buffer_size": 15132,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "css/main.css",
+			"settings":
+			{
+				"buffer_size": 29251,
 				"line_ending": "Unix"
 			}
 		}
@@ -267,6 +276,7 @@
 	},
 	"file_history":
 	[
+		"/Users/michaelbach/Sites/phoenix/js/main.js",
 		"/Users/michaelbach/Sites/phoenix/enforcement.html",
 		"/Users/michaelbach/Sites/phoenix/index.html",
 		"/Users/michaelbach/Sites/phoenix/mobile.html",
@@ -358,6 +368,23 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"testimonial",
+			"testimonials",
+			"carousel",
+			"caro",
+			"flexslider",
+			"flex",
+			".carousel-control",
+			"testimonial",
+			"testomonia",
+			"testimonial",
+			"caro",
+			"caru",
+			"cari",
+			"caro",
+			"one",
+			"testimonial",
+			"car",
 			"p.lead",
 			"p/lead",
 			"caro",
@@ -468,24 +495,7 @@
 			"webkit",
 			"D7D7DA",
 			"profile",
-			"body",
-			"settings",
-			"menu",
-			"page",
-			"hammer",
-			"page",
-			"scroller",
-			"page",
-			"body",
-			"page",
-			"0",
-			"handle",
-			"pic",
-			"cover",
-			"party",
-			">\n",
-			"200\n",
-			"          \n"
+			"body"
 		],
 		"highlight": false,
 		"in_selection": false,
@@ -517,25 +527,28 @@
 			[
 				{
 					"buffer": 0,
+					"file": "index.html",
 					"settings":
 					{
-						"buffer_size": 0,
+						"buffer_size": 15132,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								0,
-								0
+								9442,
+								9442
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/HTML/HTML.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
 						},
 						"translation.x": 0.0,
-						"translation.y": 0.0,
+						"translation.y": 2559.0,
 						"zoom_level": 1.0
 					},
 					"type": "text"
@@ -543,8 +556,37 @@
 			]
 		},
 		{
+			"selected": 0,
 			"sheets":
 			[
+				{
+					"buffer": 1,
+					"file": "css/main.css",
+					"settings":
+					{
+						"buffer_size": 29251,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								23041,
+								23041
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/CSS/CSS.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 14511.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -576,7 +618,7 @@
 		"cols":
 		[
 			0.0,
-			0.582924018777,
+			0.591051793192,
 			1.0
 		],
 		"rows":
@@ -618,7 +660,7 @@
 	"show_minimap": false,
 	"show_open_files": true,
 	"show_tabs": true,
-	"side_bar_visible": true,
+	"side_bar_visible": false,
 	"side_bar_width": 441.0,
 	"status_bar_visible": true
 }
